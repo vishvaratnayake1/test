@@ -9,13 +9,6 @@ package test;
  *
  * @author S.A.K.I
  */
-public class Test {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        System.out.print("first commit");
-    }
+public class NewClass {
     
 }
